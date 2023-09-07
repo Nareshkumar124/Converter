@@ -1,0 +1,35 @@
+.container{
+    width: 600px;
+    height: 130px;
+    border: 2px solid rgba(128, 128, 128, 0.699);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    color: #1b253d;
+    padding-block: 23px;
+}
+
+.container p{
+    font-size: 1.4rem;
+    margin-left: 14px;
+    margin-bottom: 5px;
+}
+.inp{
+    display: flex;
+    justify-content: space-around;
+}
+
+.inp input{
+    width: 60%;
+    height: 30px;
+    font-size: 1.2rem;
+    padding: 3px;
+
+}
+.inp select{
+    width: 30%;
+    height: 30px;
+    font-size: 1.2rem;
+    padding: 3px;
+
+}
